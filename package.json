@@ -23,6 +23,7 @@
     "hubot": ">= 2.3.4",
     "hubot-hipchat": ">= 1.1.x",
     "hubot-scripts": ">= 2.2.2",
-    "optparse": "1.0.3"
+    "optparse": "1.0.3",
+    "node-stringprep": ">= 0.1.x"
   }
 }
